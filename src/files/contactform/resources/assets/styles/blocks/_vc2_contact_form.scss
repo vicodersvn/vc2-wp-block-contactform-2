@@ -1,0 +1,24 @@
+.contact-block {
+    padding         : 50px 15px 50px 0;
+    background-color: #f2f2f2;
+    font-family     : $font_family_second;
+    color           : $second_color;
+
+    .form-title {
+        font-size    : 24px;
+        font-weight  : 500;
+        line-height  : 1.58;
+        color        : $primary_color;
+        margin-bottom: 20px;
+        font-family  : $font_family;
+    }
+
+    .form-description {
+        line-height  : 1.5;
+        margin-bottom: 30px;
+    }
+
+    img {
+        width: 100%;
+    }
+}
